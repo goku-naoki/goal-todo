@@ -1,0 +1,30 @@
+.listWrapper {
+  width: 250px;
+  height: 100%;
+  margin-right: 10px;
+}
+
+.list {
+  background-color: #ebecf0;
+  width: 250px;
+  padding: 10px 0;
+  border-radius: 3px;
+}
+
+.listName {
+  height: 30px;
+  line-height: 30px;
+  padding: 0 10px;
+}
+
+.tasks {
+  padding: 5px 10px 10px 10px;
+  width: 100%;
+}
+
+.task {
+  height: 30px;
+  width: 100%;
+  background: white;
+  margin-bottom: 6px;
+}

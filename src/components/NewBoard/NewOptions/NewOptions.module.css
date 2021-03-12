@@ -1,0 +1,28 @@
+.NewOptions {
+  width: 300px;
+}
+
+.NewOptions ul {
+  padding-top: 5px;
+}
+
+.NewOptions li {
+  padding: 8px 0;
+  position: relative;
+  z-index: 10;
+}
+.NewOptions li:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.NewOptions h4 {
+  margin-bottom: 4px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #172b4d;
+}
+
+.NewOptions p {
+  font-size: 12px;
+  color: #5e6c84;
+}

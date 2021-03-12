@@ -1,0 +1,8 @@
+.ListIndex {
+  width: 100%;
+  height: calc(100vh - 50px - 40px);
+  padding: 10px;
+  display: flex;
+  overflow: scroll;
+}
+

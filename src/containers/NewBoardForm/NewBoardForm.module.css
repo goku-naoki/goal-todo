@@ -1,0 +1,42 @@
+.form {
+  width: 400px;
+  height: 200px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  top: 40px;
+  z-index: 111;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  margin-bottom: 30px;
+}
+
+.title {
+  width: 70%;
+  padding: 0 5px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 3px;
+}
+
+.input {
+  width: 80%;
+  height: 30px;
+}
+
+.colors {
+  width: 100px;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.submit {
+  width: 40%;
+}

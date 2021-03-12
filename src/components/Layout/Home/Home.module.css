@@ -1,0 +1,14 @@
+.container {
+  width: 100%;
+  height: calc(100vh - 40px);
+  padding: 50px 0 30px 0;
+}
+
+.inner {
+  width: 97%;
+  height: 100%;
+  max-width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
